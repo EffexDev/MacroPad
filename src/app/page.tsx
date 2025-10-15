@@ -16,7 +16,7 @@ export default function Home() {
     <div className="h-dvh flex w-full items-center justify-center bg-[#014f13]">
       <Card className="w-full max-w-sm  shadow-emerald-800 shadow-2xl">
       <CardHeader>
-        <CardTitle className="pb-2 text-3xl"><h1>Macrofy</h1></CardTitle>
+        <CardTitle className="pb-2 text-3xl"><h1>Macroly</h1></CardTitle>
         <CardTitle>Login to your account</CardTitle>
         <CardDescription>
           Enter your email below to login to your account
